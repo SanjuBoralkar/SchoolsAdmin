@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "name": "Hardik",
+      "email": "hardik@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Paresh",
+      "email": "Paresh@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Kiran",
+      "email": "kiran@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "name": "Mahesh",
+      "email": "mahesh@gmail.com",
+      "gender": "male"
+    },
+    {
+    "id": 5,
+    "name": "Hardik",
+    "email": "hardik@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": 6,
+    "name": "Paresh",
+    "email": "Paresh@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": 7,
+    "name": "Kiran",
+    "email": "kiran@gmail.com",
+    "gender": "female"
+  },
+  {
+    "id": 8,
+    "name": "Mahesh",
+    "email": "mahesh@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": 9,
+    "name": "Hardik",
+    "email": "hardik@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": 10,
+    "name": "Paresh",
+    "email": "Paresh@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": 11,
+    "name": "Kiran",
+    "email": "kiran@gmail.com",
+    "gender": "female"
+  },
+  {
+    "id": 12,
+    "name": "Mahesh",
+    "email": "mahesh@gmail.com",
+    "gender": "male"
+  },
+  {
+  "id": 13,
+  "name": "Hardik",
+  "email": "hardik@gmail.com",
+  "gender": "male"
+},
+{
+  "id": 14,
+  "name": "Paresh",
+  "email": "Paresh@gmail.com",
+  "gender": "male"
+},
+{
+  "id": 15,
+  "name": "Kiran",
+  "email": "kiran@gmail.com",
+  "gender": "female"
+},
+{
+  "id": 16,
+  "name": "Mahesh",
+  "email": "mahesh@gmail.com",
+  "gender": "male"
+},
+{
+      "id": 17,
+      "name": "Karan",
+      "email": "karan@gmail.com",
+      "gender": "male"
+}
+  ]

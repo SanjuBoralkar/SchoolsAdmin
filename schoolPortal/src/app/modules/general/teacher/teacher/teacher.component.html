@@ -1,0 +1,23 @@
+<div class="container">
+  
+    <h1> Teachers Data  </h1>
+    
+    <table class="table table-striped">
+      <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Gender</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let teach of teachers">
+          <td>{{ teach.id }}</td>
+          <td>{{ teach.name }}</td>
+          <td>{{ teach.email }}</td>
+          <td>{{ teach.gender }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
